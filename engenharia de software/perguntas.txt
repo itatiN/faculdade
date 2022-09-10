@@ -1,0 +1,7 @@
+Como você vai usar esse recurso?
+O que esse recurso precisa fazer?
+Quais modulos voce quer no seu programa?
+Quais generos de filmes e livros?
+Onde o usuário acessaria esse recurso? (app,mobile,web)
+Quem tera o poder de avaliar?
+Como saberemos que isso está completo?

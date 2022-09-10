@@ -1,0 +1,34 @@
+1.a)Meio de conexão entre hardware e software.
+1.b)Se não existisse sistema operacional, o computador não teria os gráficos, as imagens, recursos e os gerenciamentos em que ele gerencia os hardwares do computador. Sem ele, o usuário iria ter que conhecer o micro mais a fundo fazendo com que ele demore mais para obter o resultado em algo.
+1.c)Controlar o hardware e permitir executar os softwares.
+
+2)i. Não é o hardware que fornece os recursos de comunicação e sim o Sistema Operacional.
+ii. Não é o Sistema Operacional que vai atuar e sim a aplicação.
+iii. Os firmwares conseguem realizar funções limitadas como ligar o PC, painel digital de um carro e ajustes de um aparelho televisor, sendo de forma alguma complexo.
+
+3)Sistema de lotes: As tarefas são agrupas sequencialmente em um lote de modo em que tenha aumento de utilicação do processor,diminuindo o tempo de busca das instruções na memória
+Sistema de lotes multiprogramados: Tem o objetivo de diminuir o tempo ocioso do processador enquanto reuni os lotes a serem executados,ele faz isso enquanto espera por dados de E/S por exemplo.
+Sistemas de tempo compartilhado: A técnica é compartilhar o tempo de processador,que esse é divido entre varios usuarios ou aplicações.
+
+4)Software embutido são softwares localizados em dispostivos não pc,como por exemplo uma televisão ou ate mesmo uma geladeira. Não são melhores nem piores e sim tem propostas diferentes.
+
+5)São 4; Monolítica,Hierárquica,Máquina virtual,Cliente-Servidor.
+Estrutura Monolítica: Estrutura utilizada pelos primeiros sistemas operativos, constituídos por um único programa, composto por várias sub-rotinas, de tal forma que cada uma pode chamar qualquer uma das outras. É exemplo deste tipo de estrutura, o conhecido MS-DOS. 
+Estrutura Hierárquica: SO em pequenos blocos bem definidos, com uma interface clara, para permitir a ligação com outros blocos. As principais funções do sistema encontram-se associadas a uma camada. 
+Estrutura Máquina virtual: Uma máquina virtual é uma cópia via software que procura simular uma máquina real.
+Estrutura Cliente-Servidor: Os Sistemas Cliente-Servidor são modelos de computação que distinguem dois tipos básicos de equipamentos computacionais: servidores e clientes, sendo interligados entre si geralmente utilizando-se uma rede de computadores.
+
+6)Porque em sistemas monoprogramáveis somente é possível a execução de um programa por vez. Como um programa não utiliza todos os recursos do sistema totalmente ao longo da sua execução, existe ociosidade e, consequentemente, subutilização de alguns recursos.
+
+7)Este tipo de sistema é utilizado no processamento de aplicações que fazem uso intensivo da CPU. Múltiplos processadores permitem que vários programas sejam executados ao mesmo tempo, ou que um programa seja dividido em subprogramas, para execução simultânea em mais de um processador.
+
+8) Memoria RAM é a memoria mais rapida e cara de um SO,a mais barata e lenta é o HD.
+
+9)A trap é uma exceção que muda para o modo kernel invocando uma sub-rotina do kernel (qualquer chamada do sistema) . Normalmente, o trap cria qualquer tipo de transferência de controle para o sistema operacional. A system call é o mecanismo pelo qual um programa de computador solicita um serviço do núcleo do sistema operacional sobre o qual ele está sendo executado.
+
+10.a)Sistema operacional feito de uma coleção de software que é baseada no kernel Linux e, frequentemente, um sistema de gerenciamento de pacotes
+10.b)Processo são programas instanciados, são as instruções (código) presentes em um programa sendo executadas pelo sistema.
+10.c)Acesso à todas as instruções do sistema operacional, normalmente reservado ao Kernel ou um modo de supervisor (não recomendado ao usuário comum)
+10.d)Código que é disponibilizado, através de alguma licença como a GNU, em sua íntegra ao público, não podendo ser comercializado. Um exemplo disso é o Linux.
+10.e)Diretórios são lugares para armazenação de dados (são chamados de pastas no Windows) e repositórios são diretório monitorados através de ferramentas como Git onde o código é armazenado, podendo ser propriamente na máquina ou na nuvem através de ferramentas como GitHub.
+

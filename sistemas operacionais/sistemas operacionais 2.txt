@@ -1,0 +1,28 @@
+1)a)É uma coleção de ferramentas de software que automatiza o processo de instalação, atualização, configuração e remoção de programas de computador para um sistema operacional de uma maneira consistente.
+b).deb é para distros baseadas em Debian. .rpm é para distros baseadas em Red Hat.
+c)Pois é mais leve para rodar e ter eficiencia em maquinas com menos potencia computacional.
+d)Sistemas Linux são reconhecidos como os mais seguros em uso. As suas distribuições são desenvolvidas para impedir a presença de malwares, além de impedir a existência falhas de segurança disponíveis por longo período. Suas atualizações de segurança são constantes, simples e de rápida instalação e configuração.
+Para sistemas desktop o Ubuntu é o rei da estabilidade,ja para servidores é o oracle.
+
+2)Ja usei varias distros,atualmente uso Arch linux no meu PC e kali linux no meu notebook.
+
+3)Ele criptografia o usuario e senha e salva eles em pastas diferentes,com o intuito de ser mais trabalhoso quebrar a criptografia caso sofra algum ataque. Hashes sao o produto final de uma criptografia. A criptografia mais segura é aquela que trabalha com um embaralhamento melhor e normalmente a com maior bits no final.
+
+4)Pois muitas das vezes ele tem que fazer algo que seria mais fluido usando o terminal,muitas das vezes ele precisa conectar remotamente em um servidor e/ou computador que usa UNIX.
+
+5)GNU is not unix. Gnu é um so do tipo unix com o objetivo de ser totalmente composto por software livre.
+  Open source e código livre são códigos projetado para ser acessado abertamente pelo público.
+
+6)Apt é um gerenciador de pacotes. Ubuntu,Mint e Debian usam o Apt.
+
+7)usuario@sistemas: onde voce esta no sistema
+
+8)cd: change directory
+  ls: list
+  mkdir: make directory
+  rmdir: remove directory
+  sudo: super-user do
+
+9)Gosto,tenho o costume de usar, acho mais facil e fluido.
+
+10)Pois linux tem uma parcela muito pequena de usuarios comparados aos outros sistemas operacionais.
