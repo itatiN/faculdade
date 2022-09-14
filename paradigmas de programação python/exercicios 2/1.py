@@ -4,9 +4,9 @@
 
 a = input("Digite seu valor para a: ")
 b = input("Digite seu valor para b: ")
-placeholderA = a
-placeholderB = b
-a = placeholderB
-b = placeholderA
-print("Seu valor de a",placeholderA," seu valor de b ",placeholderB)
+holderA = a
+holderB = b
+a = holderB
+b = holderA
+print("Seu valor de a",holderA," seu valor de b ",holderB)
 print("Seu valor de a trocado com b",a," seu valor de b trocado com a ",b)
