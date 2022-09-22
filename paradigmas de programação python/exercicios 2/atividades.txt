@@ -1,0 +1,21 @@
+1. Por que é útil que o desenvolvedor conheça as características das várias linguagens, mesmo que não vá projetar uma linguagem?
+R: Pois ele fica por dentro do que esta acontecendo no mundo de ciencia da computação e pode escolher melhor a linguagem adequada para o produto certo.
+
+
+2. Quais as desvantagens estão relacionadas à uma linguagem ter recursos demais?
+R: Maior curva de aprendizado da linguagem.
+
+
+3. O que significa um programa ser confiável? Identifique 3 aplicações que exijam alta confiabilidade.
+R: Um programa que tenha disponibilidade,ou seja esta sempre aberto a uso. Tenha integridade em seu uso,ou seja sempre vai chegar a informação certo.
+   Tenha segurança, para nao houver fraudes no sistema. Banco,Faculdade,Supermercado.
+
+
+4. Por que verificar os tipos de dados é importante? Qual o problema que usar tipos traz?
+R: Pois fica mais facil reduzir os riscos,gerar confusção com os dados no aplicativo,torna o produto final mais efetivo.
+   O problema que pode trazer é uma complexidade maior na hora de realizar o codigo-fonte.
+
+
+5. A linguagem mais usada é sempre a melhor? Argumente!
+R: Não necessariamente,depende do caso de uso. Cada linguagem tem seus pontos fracos e fortes o que resulta em ela ser melhor em algo especifico
+do que outra linguagem que tenha o proposito diferente.
